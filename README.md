@@ -15,4 +15,10 @@ Discord's user-reports channel.
 
 ## Update lists
 
-    $ ./build.sh
+  * For linux:
+
+        $ ./build.sh
+
+  * For Windows:
+
+        $ ./build.bat
