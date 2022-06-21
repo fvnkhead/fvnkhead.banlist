@@ -5,7 +5,7 @@ Discord's user-reports channel.
 
 ## Folders
 
-  * `cheat/` includes suspected cheater UIDs in files named by the username
+  * `cheat/` includes suspected cheater UIDs or cheat advertisers, in files named by the username
   * `speech/` includes users with offensive speech (racism, sexism, etc.)
 
 ## Files
