@@ -19,6 +19,6 @@ Discord's user-reports channel.
 
         $ ./build.sh
 
-  * For Windows:
+  * For Windows: (**Require Powershell**)
 
-        $ ./build.bat
+        $ ./build.ps1
